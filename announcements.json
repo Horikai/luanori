@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "data": [{
+        "id": 1,
+        "program_id": 1,
+        "title": "LuanOri",
+        "content": "Phiên bản V1.7.0 mới nhất đã được phát hành\r\nTải xuống phiên bản mới nhất từ ​​tệp nhóm, Nhóm QQ: 180198044\r\n\r\n1. 【Tối ưu hóa】 Làm đẹp kiểu dáng chân trang (footer)\r\n2. 【Sửa lỗi】 Chức năng gửi thư khi tham gia nhóm\r\n3. 【Sửa lỗi】 Bật/tắt mã xác minh đăng nhập trang quản trị\r\n4. 【Thêm】 Thêm và xóa chức năng cho nội dung trang chủ\r\n\r\nMạng lưới XingHan đồng hành cùng bạn, cùng nhau tiến bộ!!!",
+        "link": null,
+        "status": "active",
+        "created_at": "2024-12-15 17:04:01",
+        "updated_at": "2024-12-15 01:34:40",
+        "program_name": "XingHan-Team Phiên bản nguồn mở"
+    }]
+}
